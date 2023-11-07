@@ -1,4 +1,4 @@
-### Hi there 👋 This is Ray HU!  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RayCorleone.RayCorleone">
+### Hi there 👋 This is Ray HU!  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=RayCorleone.RayCorleone-badge">
 
 **Tools & Status:**
 
