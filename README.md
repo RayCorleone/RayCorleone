@@ -2,14 +2,11 @@
 
 > **[CUR. CITY]** Shenzhen, China *(Date of last update: 2023-11-23)*
 >
-> **[MY MOTTO]** Life swings like a pendulum backward and forward between pain and boredom.
+> **[MOTTO]** Life swings like a pendulum backward and forward between pain and boredom.
 
 ### **Tools &  Status**</br>
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
-<code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
+<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/C.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/PyTorch.svg"></code>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
@@ -23,7 +20,7 @@
 - 😀 I'm Haoyu HU, and you can just call me **Ray**;
 - 📰 My *Myers–Briggs Type Indicator* personality type is **ENFJ / INFJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
-- 🛠 I'm interested in Robotics, Computer Vision and ML;
+- 🛠 I'm interested in Robotics, Computer Vision and Machine Learning;
 - 🎸 I'm a beginner in acoustic guitar,and a fan of all kinds of music;
 
 ### Time Line
