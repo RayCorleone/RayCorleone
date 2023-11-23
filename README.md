@@ -6,7 +6,7 @@
 
 ### **Tools &  Status**</br>
 
-<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/C.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/PyTorch.svg"></code>
+<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/c.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/PyTorch.svg"></code>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
