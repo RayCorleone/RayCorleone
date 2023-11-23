@@ -1,13 +1,12 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[MOTTO]** Life swings like a pendulum backward and forward between pain and boredom.
->
 > **[CUR. CITY]** Shenzhen, China *(Date of last update: 2023-11-23)*
+>
+> **[MY MOTTO]** Life swings like a pendulum backward and forward between pain and boredom.
 
 ### **Tools &  Status**</br>
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1599px-LaTeX_logo.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></code>
 <code><img height="30" src="https://www.qt.io/hubfs/qt-design-system/assets/logos/qt-logo.svg"></code>
@@ -25,14 +24,14 @@
 - 📰 My *Myers–Briggs Type Indicator* personality type is **ENFJ / INFJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
 - 🛠 I'm interested in Robotics, Computer Vision and ML;
-- 🎸 I'm a fan of all kinds of music, and a beginner in acoustic guitar;
+- 🎸 I'm a beginner in acoustic guitar,and a fan of all kinds of music;
 
 ### Time Line
 
-- [2019.09 ~ 2024.07] Tongji University (Shanghai, China)
-- [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. (Jinzhong, China)
-- [2024.08 ~ 202x.xx] *Applying*
+- [2019.09 ~ 2024.07] Tongji University *(Shanghai, China)*
+- [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. *(Jinzhong, China)*
+- [2024.08 ~ 202x.06] *Still Applying*
 
 </br>
 
-**P.S. Please feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com) if you want to do project with me.**
+**P.S. Please feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com).**
