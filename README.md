@@ -24,7 +24,7 @@
 - 🎸 I'm a beginner in acoustic guitar,and a fan of all kinds of music;
 - 📖 I'm a native Mandarin speaker, proficient in English and familiar with French;
 
-### Time Line
+### **Time Line**
 
 - 🏫 [2019.09 ~ 2024.07] Tongji University *(Shanghai, China)*
 - 🏢 [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. *(Jinzhong, China)*
