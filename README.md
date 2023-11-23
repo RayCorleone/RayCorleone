@@ -1,10 +1,14 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> Life swings like a pendulum backward and forward between pain and boredom. [Schopenhauer](https://www.goodreads.com/author/show/11682.Arthur_Schopenhauer)
+> Life swings like a pendulum backward and forward between pain and boredom. </t>—[Schopenhauer](https://www.goodreads.com/author/show/11682.Arthur_Schopenhauer)
 
 
 
-- I'm Haoyu HU, and you can just call me **Ray** 😀
+**About Me**
+
+- 😀 I'm Haoyu HU, and you can just call me **Ray**
+
+
 
 
 
