@@ -6,7 +6,7 @@
 
 ### **Tools &  Status**</br>
 
-<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/c.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/PyTorch.svg"></code>
+<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/C.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Cocos2dx.png"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/PyTorch.svg"></code>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
@@ -22,12 +22,13 @@
 - 💻 I'm fluent in Python, C/C++ and Verilog;
 - 🛠 I'm interested in Robotics, Computer Vision and Machine Learning;
 - 🎸 I'm a beginner in acoustic guitar,and a fan of all kinds of music;
+- 📖 I'm a native Mandarin speaker, proficient in English and familiar with French;
 
 ### Time Line
 
 - [2019.09 ~ 2024.07] Tongji University *(Shanghai, China)*
 - [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. *(Jinzhong, China)*
-- [2024.08 ~ 202x.06] *Still Applying*
+- [2024.08 ~ 202x.06] *Applying Now*
 
 </br>
 
