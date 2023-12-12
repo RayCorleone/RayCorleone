@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Hangzhou, China *(Date of last update: 2023-12-09)*
+> **[CITY]** Shanghai, China *(Date of last update: 2023-12-12)*
 >
 > **[MOTTO]** Life swings like a pendulum backward and forward between pain and boredom.
 
