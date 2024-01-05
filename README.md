@@ -32,4 +32,4 @@
 
 </br>
 
-**P.S. Please feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com).**
+**P.S. Feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com).**
