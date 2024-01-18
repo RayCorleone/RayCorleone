@@ -1,8 +1,8 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Jinzhong, China *(Date of last update: 2024-01-11)*
+> **[CITY]** Jinzhong, China *(Date of last update: 2024-01-19)*
 >
-> **[MOTTO]** Life swings like a pendulum backward and forward between pain and boredom.
+> **[MOTTO]** Progress is never free. There is always a cost.
 
 ### **Tools &  Status**</br>
 
