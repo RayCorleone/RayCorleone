@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Tianjin, China *(Date of last update: 2024-02-15)*
+> **[CITY]** Daqing, China *(Date of last update: 2024-02-18)*
 >
 > **[MOTTO]** Progress is never free. There is always a cost.
 
