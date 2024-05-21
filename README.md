@@ -1,8 +1,8 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Shanghai, China *(Date of last update: 2024-04-01)*
+> **[CITY]** Shanghai, China *(Date of last update: 2024-05-21)*
 >
-> **[MOTTO]** Progress is never free. There is always a cost.
+> **[MOTTO]** Action precedes motivation.
 
 ### **Tools &  Status**</br>
 
