@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Shanghai, China *(Date of last update: 2024-05-21)*
+> **[CITY]** Shanghai, China *(Date of last update: 2024-06-01)*
 >
 > **[MOTTO]** Action precedes motivation.
 
@@ -27,9 +27,10 @@
 ### **Time Line**
 
 - 🏫 [2019.09 ~ 2024.07] Tongji University *(Shanghai, China)*
+- 🏫 [2022.09 ~ 2023.07] Intensive French Language Training Class - Tongji University *(Shanghai, China)*
 - 🏢 [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. *(Jinzhong, China)*
 - 🏫 [2024.08 ~ 2025.09] Imperial College London *(London, United Kingdom)*
 
 </br>
 
-**P.S. Feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com).**
+**P.S. Feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com). 但请保持礼貌，谢谢。**
