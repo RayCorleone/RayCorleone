@@ -26,10 +26,10 @@
 
 ### **Time Line**
 
-- 🏫 [2019.09 ~ 2024.07] Tongji University *(Shanghai, China)*
+- 🏫 [2019.09 ~ 2024.07] Computer Science & Technology - Tongji University *(Shanghai, China)*
 - 🏫 [2022.09 ~ 2023.07] Intensive French Language Training Class - Tongji University *(Shanghai, China)*
 - 🏢 [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. *(Jinzhong, China)*
-- 🏫 [2024.08 ~ 2025.09] Imperial College London *(London, United Kingdom)*
+- 🏫 [2024.08 ~ 2025.09] Computing(VC&R) - Imperial College London *(London, United Kingdom)*
 
 </br>
 
