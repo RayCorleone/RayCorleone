@@ -20,7 +20,7 @@
 - 😀 I'm Haoyu HU, and you can just call me **Ray**;
 - 📰 My *Myers–Briggs Type Indicator* personality type is **ENFJ / INFJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
-- 🛠 I'm interested in Robotics, Computer Vision and Machine Learning;
+- 🛠 I'm interested in Robotics, Computer Vision and Deep Learning;
 - 🎸 I'm a beginner in acoustic/classical guitar,and a fan of all kinds of music;
 - 📖 I'm a native Mandarin speaker, proficient in English and familiar with French;
 
