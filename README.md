@@ -2,7 +2,7 @@
 
 > **[CITY]** London, UK *(Date of last update: 2025-01-01)*
 >
-> **[MOTTO]** Action precedes motivation. ==(AND HAPPY NEW YEAR!!!)==
+> **[MOTTO]** Action precedes motivation. ***AND HAPPY NEW YEAR!!!***
 
 ### **Tools &  Status**</br>
 
