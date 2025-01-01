@@ -1,8 +1,8 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** London, UK *(Date of last update: 2024-12-16)*
+> **[CITY]** London, UK *(Date of last update: 2025-01-01)*
 >
-> **[MOTTO]** Action precedes motivation.
+> **[MOTTO]** Action precedes motivation. (AND HAPPY NEW YEAR!!!)
 
 ### **Tools &  Status**</br>
 
@@ -17,7 +17,7 @@
 
 ### **About Me**
 
-- 😀 I'm Haoyu HU, and you can just call me **Ray**;
+- 😀 I'm Ray HU, and you can just call me **Ray**;
 - 📰 My *Myers–Briggs Type Indicator* personality type is **ENFJ / INFJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
 - 🛠 I'm interested in Robotics, Computer Vision and Deep Learning;
