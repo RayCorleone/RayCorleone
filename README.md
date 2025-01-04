@@ -35,5 +35,5 @@
 
 **P.S. Feel free to contact me via [rayhuc@163.com](mailto:rayhuc@163.com). 但请保持礼貌，谢谢。**
 
-**P.S. It's okay to use my page as a template, but please ensure that all the links in this file are changed accordingly.**
+**P.S. It's okay to use this as a template, but please ensure that all the links in this file are changed accordingly.**
 
