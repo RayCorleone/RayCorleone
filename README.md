@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** London, UK *(Date of last update: 2025-01-06)*
+> **[CITY]** London, UK *(Date of last update: 2025-02-25)*
 >
 > **[MOTTO]** Action precedes motivation.
 
