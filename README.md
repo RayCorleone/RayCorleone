@@ -1,12 +1,12 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** London, UK *(Date of last update: 2025-02-25)*
+> **[CITY]** London, UK *(Date of last update: 2025-03-17)*
 >
 > **[MOTTO]** Action precedes motivation.
 
 ### **Tools &  Status**</br>
 
-<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/C.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Cocos2dx.png"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/PyTorch.svg"></code>
+<code><img height="30" src="./resource/Python.png"></code><code><img height="30" src="./resource/C.svg"></code><code><img height="30" src="./resource/C++.svg"></code><code><img height="30" src="./resource/PyTorch.svg"></code><code><img height="30" src="./resource/TensorFlow.png"></code><code><img height="30" src="./resource/Flask.svg"></code><code><img height="30" src="./resource/Qt.svg"></code><code><img height="30" src="./resource/Cocos2dx.png"></code>
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
