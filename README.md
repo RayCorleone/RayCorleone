@@ -27,10 +27,10 @@
 ### **Time Line**
 
 - 🏫 [2019.09 ~ 2024.07] Tongji University *(Shanghai, China)*
-- 🏢 [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd. *(Shanxi, China)*
+- 🏢 [2022.07 ~ 2022.09] Jimu Kankan Information Technology Co., Ltd *(Shanxi, China)*
 - 🏫 [2022.09 ~ 2023.07] Intensive French Language Training Class - Tongji University *(Shanghai, China)*
 - 🏫 [2024.08 ~ 2025.11] Imperial College London *(London, United Kingdom)*
-- 🏢 [2025.01 ~ 2025.10] Swanley Auction Ltd. *(London, United Kingdom)*
+- 🏢 [2025.01 ~ 2025.10] Swanley Auction Ltd *(London, United Kingdom)*
 
 </br>
 
