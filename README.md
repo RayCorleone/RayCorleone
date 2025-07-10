@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** London, UK *(Date of last update: 2025-06-20)*
+> **[CITY]** London, UK *(Date of last update: 2025-07-10)*
 >
 > **[MOTTO]** Action precedes motivation.
 
@@ -20,7 +20,7 @@
 - 😀 I'm Ray HU, and you can just call me **Ray**;
 - 📰 My *Myers–Briggs Type Indicator* personality type is **ENFJ / INFJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
-- 🛠 I'm interested in Deep Learning, Computer Vision and Robotics;
+- 🛠 I'm interested in Deep Learning, Computer Vision and LLM;
 - 🎸 I'm a beginner in acoustic/classical guitar,and a fan of all kinds of music;
 - 📖 I'm a native Mandarin speaker, proficient in English and familiar with French;
 
