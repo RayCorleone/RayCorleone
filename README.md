@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Taiyuan, China *(Date of last update: 2025-11-17)*
+> **[CITY]** Fuzhou, China *(Date of last update: 2025-11-17)*
 >
 > **[MOTTO]** Action precedes motivation.
 
