@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Ray HU! <img align="right" src="https://komarev.com/ghpvc/?username=RayCorleone" />
 
-> **[CITY]** Fuzhou, China *(Date of last update: 2026-01-21)*
+> **[CITY]** Hangzhou, China *(Date of last update: 2026-07-06)*
 >
 > **[MOTTO]** Action precedes motivation.
 
@@ -20,7 +20,7 @@
 - 😀 I'm Ray HU, and you can just call me **Ray**;
 - 📰 My *Myers–Briggs Type Indicator* personality type is **ENFJ / INFJ**;
 - 💻 I'm fluent in Python, C/C++ and Verilog;
-- 🛠 I'm interested in Deep Learning, Computer Vision and LLM;
+- 🛠 I'm interested in Deep Learning, Computer Vision, LLM and Data Center Operations;
 - 🎸 I'm a beginner in acoustic/classical guitar,and a fan of all kinds of music;
 - 📖 I'm a native Mandarin speaker, proficient in English and familiar with French;
 
@@ -31,6 +31,7 @@
 - 🏫 [2022.09 ~ 2023.07] Intensive French Language Training Class - Tongji University *(Shanghai, China)*
 - 🏫 [2024.08 ~ 2025.11] Imperial College London *(London, United Kingdom)*
 - 🏢 [2025.01 ~ 2025.10] Swanley Auction Ltd *(London, United Kingdom)*
+- 🏢 [2026.04 ~ Present] Alibaba Cloud *(Zhejiang, China)*
 
 </br>
 
